@@ -10,13 +10,13 @@
 
 ### 🌟 About Me
 
-```typescript
+```javascript
 const haoyu = {
-    pronouns: "He" | "Him",
+    pronouns: "He/Him",
     location: "🌍",
     currentFocus: "Building cool stuff with code",
-    interests: ["Software Development", "Open Source", "Tech Innovation"],
-    askMeAbout: ["Web Dev", "Tech", "Coffee ☕"],
+    interests: ["Software Development", "Open Source", "AI & Tech Innovation"],
+    askMeAbout: ["Web Dev", "AI Tools", "Tech", "Coffee ☕"],
     funFact: "I debug with console.log() and I'm not ashamed 😄"
 };
 ```
@@ -29,11 +29,19 @@ const haoyu = {
 
 <div align="center">
 
+#### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+#### AI & Development Tools
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/-Claude-181717?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+
+#### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
