@@ -98,7 +98,7 @@ const haoyu = {
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haoyupan2003)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haoyupan2003)
 [![Blog](https://img.shields.io/badge/-Blog-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://haoyupan2003.github.io)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/-Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:haoyu.pan@mytwu.ca)
 
 </div>
 
