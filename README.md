@@ -14,12 +14,12 @@
 <tr>
 <td>
 
-- 👨‍💻 **Pronouns:** He/Him
-- 🌍 **Location:** Earth
-- 🎯 **Current Focus:** Building cool stuff with code
-- 💡 **Interests:** Software Development | Open Source | AI & Tech Innovation
-- 💬 **Ask Me About:** Web Dev, AI Tools, Tech, Coffee ☕
-- ⚡ **Fun Fact:** I debug with console.log() and I'm not ashamed 😄
+- **Pronouns:** He/Him
+- **Location:** Earth
+- **Current Focus:** Building cool stuff with code 
+- **Interests:** Software Development | Open Source | AI & Tech Innovation
+- **Ask Me About:** Web Dev, AI Tools, Tech, Coffee ☕
+- **Fun Fact:** I debug with console.log() and I'm not ashamed 😄
 
 </td>
 </tr>
