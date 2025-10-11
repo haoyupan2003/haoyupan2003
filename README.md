@@ -3,12 +3,12 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=I'm+Haoyu+Pan;Developer+%7C+Creator+%7C+Problem+Solver;Always+learning+something+new+🚀" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=I'm+Haoyu+Pan;Developer+%7C+Creator+%7C+Problem+Solver;Always+learning+something+new" alt="Typing SVG" /></a>
 </p>
 
 <div align="center">
 
-### 🌟 About Me
+### About Me
 
 ```javascript
 const haoyu = {
@@ -25,7 +25,7 @@ const haoyu = {
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -50,7 +50,7 @@ const haoyu = {
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haoyupan2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7"/>
@@ -63,7 +63,7 @@ const haoyu = {
 
 ---
 
-### 🏆 GitHub Trophies
+### GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=haoyupan2003&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
@@ -71,7 +71,7 @@ const haoyu = {
 
 ---
 
-### 🐍 Contribution Snake
+### Contribution Snake
 
 <div align="center">
   <picture>
@@ -83,7 +83,7 @@ const haoyu = {
 
 ---
 
-### 💭 Dev Quote
+### Dev Quote
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
@@ -91,7 +91,7 @@ const haoyu = {
 
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 
 <div align="center">
 
@@ -104,7 +104,7 @@ const haoyu = {
 
 ---
 
-### 📈 Profile Views
+### Profile Views
 
 <div align="center">
 
