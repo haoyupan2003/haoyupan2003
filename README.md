@@ -77,7 +77,7 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=haoyupan2003&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haoyupan2003&theme=dark" alt="GitHub Streak"/>
 </div>
 
 ---
