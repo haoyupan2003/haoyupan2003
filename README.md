@@ -72,12 +72,24 @@
 ### GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haoyupan2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&cache_seconds=0&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoyupan2003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&cache_seconds=0"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=haoyupan2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&cache_seconds=0&rank_icon=github">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=haoyupan2003&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=false&cache_seconds=0&rank_icon=github">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=haoyupan2003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6AD3F7&icon_color=6AD3F7&cache_seconds=0&rank_icon=github" alt="GitHub Stats"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haoyupan2003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&cache_seconds=0">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=haoyupan2003&layout=compact&langs_count=8&theme=default&hide_border=false&cache_seconds=0">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haoyupan2003&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6AD3F7&cache_seconds=0" alt="Top Languages"/>
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haoyupan2003&theme=dark" alt="GitHub Streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=haoyupan2003&theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=haoyupan2003&theme=default">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=haoyupan2003&theme=dark" alt="GitHub Streak"/>
+  </picture>
 </div>
 
 ---
@@ -85,7 +97,11 @@
 ### GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=haoyupan2003&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=haoyupan2003&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=haoyupan2003&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15">
+    <img src="https://github-profile-trophy.vercel.app/?username=haoyupan2003&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+  </picture>
 </div>
 
 ---
@@ -105,7 +121,11 @@
 ### Dev Quote
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+  </picture>
 </div>
 
 ---
