@@ -1,6 +1,3 @@
-<!-- Header with Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20there!%20&fontSize=40&fontAlignY=35&animation=twinkling&fontColor=fff" />
-
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6AD3F7&center=true&vCenter=true&random=false&width=600&lines=I'm+Haoyu+Pan;Developer+%7C+Creator+%7C+Problem+Solver;Always+learning+something+new" alt="Typing SVG" /></a>
@@ -152,6 +149,3 @@
 </div>
 
 ---
-
-<!-- Footer Wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
