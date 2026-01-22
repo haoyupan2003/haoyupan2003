@@ -91,18 +91,6 @@
 
 ---
 
-### GitHub Trophies
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=haoyupan2003&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=haoyupan2003&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15">
-    <img src="https://github-profile-trophy.vercel.app/?username=haoyupan2003&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-  </picture>
-</div>
-
----
-
 ### Contribution Snake
 
 <div align="center">
